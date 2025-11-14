@@ -18,4 +18,5 @@ This project implements a basic HTTP client as part of a Computer Networks assig
 3. Modify the host/path if needed.
 
 ## Author
-Nikita (Engineering Student, Bangalore)
+Nikita Kulshreshtha
+
